@@ -2,12 +2,8 @@
 <FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:orientation="vertical" android:layout_width="match_parent"
     android:layout_height="match_parent">
-<com.example.administrator.myapplication.DrawView
+<com.example.administrator.myapplication.DrawViewWithoutPen
     android:layout_width="match_parent"
     android:layout_height="match_parent">
-</com.example.administrator.myapplication.DrawView>
-    <ImageView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:src="@mipmap/pen"/>
+</com.example.administrator.myapplication.DrawViewWithoutPen>
 </FrameLayout>
