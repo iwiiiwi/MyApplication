@@ -1,7 +1,10 @@
 package com.example.administrator.myapplication;
 
 import android.app.Activity;
+import android.media.Image;
 import android.os.Bundle;
+import android.view.View;
+import android.widget.ImageView;
 
 /**
  * Created by Administrator on 2017/4/12.
